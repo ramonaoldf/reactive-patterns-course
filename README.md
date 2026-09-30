@@ -21,7 +21,7 @@ This project has minimal dependencies, you only need node and npm installed on y
 
 # Installation Instructions
 
-First clone or download as a Zip file using the green "Clone Or Download" button on the top right of the document.
+Clone the repository before continuing.
 
 Then change directory to the folder 01-getting-started-with-angular2, where you will find a small node project with a `package.json`.
 
